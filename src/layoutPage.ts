@@ -1,6 +1,8 @@
-import {Component} from "@angular/core";
+import { Component } from "@angular/core";
+
 @Component({
-    selector:"layout-page",
+    selector: "layout-page",
     templateUrl: "src/layoutPage.html"
 })
-export class LayoutPage{}
+
+export class LayoutPage { }
